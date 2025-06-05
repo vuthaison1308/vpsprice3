@@ -10,7 +10,7 @@ configs:[
 {name:"Cấu hình 1",subtitle:"Treo game số lượng lớn",cpu:"Dual Intel Xeon E5-2680v4",cores:"28 cores/56 threads",gpu:"GTX 1070/1080",vram:"8GB VRAM",ram:"128GB DDR4",storage:"512GB SSD NVMe",weekly:"425k",monthly:"1,500k"},
 {name:"Cấu hình 2",subtitle:"Treo game số lượng cực lớn",cpu:"Dual Intel Xeon E5-2686v4",cores:"36 cores/72 threads",gpu:"GTX 1070/1080",vram:"8GB VRAM",ram:"128GB DDR4",storage:"512GB SSD NVMe",weekly:"450k",monthly:"1,600k"}
 ],
-features:["✅ Hỗ trợ Windows 10 (1511, 21H2, 22H2), Win 11","💾 Nâng cấp RAM lên 256GB (50K/32GB - tối thiểu 64GB)","💽 Ổ cứng SSD 512GB","🌐 Mạng tốc độ cao: VNPT, Viettel, FPT","🔧 Hỗ trợ 24/7 và tự động khởi động lại","🎮 Tối ưu hóa chuyên biệt cho game Roblox","🖥️ Điều khiển bằng UltraViewer hoặc Chrome Remote","🚀 Hiệu năng ổn định 99.9% uptime"]
+features:["✅ Hỗ trợ Windows 10 (1511, 21H2, 22H2), Win 11","💾 Nâng cấp RAM lên 256GB (50K/32GB - tối thiểu 64GB)","💽 Ổ cứng SSD Tốc Độ Cao","🌐 Mạng tốc độ cao: VNPT, Viettel, FPT","🔧 Hỗ trợ 24/7","🎮 Tối ưu hóa chuyên biệt cho game Roblox","🖥️ Điều khiển bằng UltraViewer hoặc Chrome Remote","🚀 Hiệu năng ổn định 99.9% uptime"]
 },
 en:{
 mainTitle:"VPS GAMING",
@@ -23,7 +23,7 @@ configs:[
 {name:"Configuration 1",subtitle:"Large scale game automation",cpu:"Dual Intel Xeon E5-2680v4",cores:"28 cores/56 threads",gpu:"GTX 1070/1080",vram:"8GB VRAM",ram:"128GB DDR4",storage:"512GB SSD NVMe",weekly:"$18",monthly:"$60"},
 {name:"Configuration 2",subtitle:"Ultra large scale game automation",cpu:"Dual Intel Xeon E5-2686v4",cores:"36 cores/72 threads",gpu:"GTX 1070/1080",vram:"8GB VRAM",ram:"128GB DDR4",storage:"512GB SSD NVMe",weekly:"$19",monthly:"$65"}
 ],
-features:["✅ Support Windows 10 (1511, 21H2, 22H2), Win 11","💾 RAM upgrade to 256GB (50K/32GB - minimum 64GB)","💽 512GB SSD Storage","🌐 High-speed network: VNPT, Viettel, FPT","🔧 24/7 support & auto restart","🎮 Specially optimized for Roblox gaming","🖥️ Remote control via UltraViewer or Chrome Remote","🚀 Stable performance 99.9% uptime"]
+features:["✅ Support Windows 10 (1511, 21H2, 22H2), Win 11","💾 RAM upgrade to 256GB (50K/32GB - minimum 64GB)","💽 High-Speed SSD Storage","🌐 High-speed network: VNPT, Viettel, FPT","🔧 24/7 support","🎮 Specially optimized for Roblox gaming","🖥️ Remote control via UltraViewer or Chrome Remote","🚀 Stable performance 99.9% uptime"]
 },
 th:{
 mainTitle:"VPS GAMING",
@@ -36,7 +36,7 @@ configs:[
 {name:"คอนฟิก 1",subtitle:"เล่นเกมอัตโนมัติจำนวนมาก",cpu:"Dual Intel Xeon E5-2680v4",cores:"28 cores/56 threads",gpu:"GTX 1070/1080",vram:"8GB VRAM",ram:"128GB DDR4",storage:"512GB SSD NVMe",weekly:"$18",monthly:"$60"},
 {name:"คอนฟิก 2",subtitle:"เล่นเกมอัตโนมัติจำนวนมหาศาล",cpu:"Dual Intel Xeon E5-2686v4",cores:"36 cores/72 threads",gpu:"GTX 1070/1080",vram:"8GB VRAM",ram:"128GB DDR4",storage:"512GB SSD NVMe",weekly:"$19",monthly:"$65"}
 ],
-features:["✅ รองรับ Windows 10 (1511, 21H2, 22H2), Win 11","💾 อัปเกรด RAM ถึง 256GB (50K/32GB - ขั้นต่ำ 64GB)","💽 ฮาร์ดดิสก์ SSD 512GB","🌐 เครือข่ายความเร็วสูง: VNPT, Viettel, FPT","🔧 ซัพพอร์ต 24/7 และรีสตาร์ทอัตโนมัติ","🎮 เหมาะสำหรับเกม Roblox โดยเฉพาะ","🖥️ ควบคุมระยะไกลด้วย UltraViewer หรือ Chrome Remote","🚀 ประสิทธิภาพเสถียร 99.9% uptime"]
+features:["✅ รองรับ Windows 10 (1511, 21H2, 22H2), Win 11","💾 อัปเกรด RAM ถึง 256GB (50K/32GB - ขั้นต่ำ 64GB)","💽 ฮาร์ดดิสก์ SSD ความเร็วสูง","🌐 เครือข่ายความเร็วสูง: VNPT, Viettel, FPT","🔧 ซัพพอร์ต 24/7","🎮 เหมาะสำหรับเกม Roblox โดยเฉพาะ","🖥️ ควบคุมระยะไกลด้วย UltraViewer หรือ Chrome Remote","🚀 ประสิทธิภาพเสถียร 99.9% uptime"]
 }
 };
 let l='vi';
