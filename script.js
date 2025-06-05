@@ -10,7 +10,7 @@ configs:[
 {name:"Cấu hình 1",subtitle:"Treo game số lượng lớn",cpu:"Dual Intel Xeon E5-2680v4",cores:"28 nhân",gpu:"GTX 1070/1080",vram:"8GB VRAM",ram:"128GB DDR4",storage:"SSD NVMe",weekly:"425k",monthly:"1,500k"},
 {name:"Cấu hình 2",subtitle:"Treo game số lượng cực lớn",cpu:"Dual Intel Xeon E5-2686v4",cores:"36 nhân",gpu:"GTX 1070/1080",vram:"8GB VRAM",ram:"128GB DDR4",storage:"SSD NVMe",weekly:"450k",monthly:"1,600k"}
 ],
-features:["✅ Hỗ trợ Windows 1511, 21H2, 22H2","💾 Nâng cấp RAM lên 256GB (25K/32GB)","🌐 Mạng tốc độ cao: VNPT, Viettel, FPT","🔧 Hỗ trợ 24/7 và tự động khởi động lại","🎮 Tối ưu cho game: Blox Fruits, Roblox","🚀 Hiệu năng ổn định 99.9% uptime"]
+features:["✅ Hỗ trợ Windows 1511, 21H2, 22H2","💾 Nâng cấp RAM lên 256GB (50K/32GB - tối thiểu 64GB)","🌐 Mạng tốc độ cao: VNPT, Viettel, FPT","🔧 Hỗ trợ 24/7 và tự động khởi động lại","🎮 Tối ưu hóa chuyên biệt cho game Roblox","🚀 Hiệu năng ổn định 99.9% uptime"]
 },
 en:{
 mainTitle:"VPS GAMING",
@@ -23,7 +23,7 @@ configs:[
 {name:"Configuration 1",subtitle:"Large scale game automation",cpu:"Dual Intel Xeon E5-2680v4",cores:"28 cores",gpu:"GTX 1070/1080",vram:"8GB VRAM",ram:"128GB DDR4",storage:"SSD NVMe",weekly:"$17",monthly:"$60"},
 {name:"Configuration 2",subtitle:"Ultra large scale game automation",cpu:"Dual Intel Xeon E5-2686v4",cores:"36 cores",gpu:"GTX 1070/1080",vram:"8GB VRAM",ram:"128GB DDR4",storage:"SSD NVMe",weekly:"$18",monthly:"$64"}
 ],
-features:["✅ Support Windows 1511, 21H2, 22H2","💾 RAM upgrade to 256GB (25K/32GB)","🌐 High-speed network: VNPT, Viettel, FPT","🔧 24/7 support & auto restart","🎮 Optimized for games: Blox Fruits, Roblox","🚀 Stable performance 99.9% uptime"]
+features:["✅ Support Windows 1511, 21H2, 22H2","💾 RAM upgrade to 256GB (50K/32GB - minimum 64GB)","🌐 High-speed network: VNPT, Viettel, FPT","🔧 24/7 support & auto restart","🎮 Specially optimized for Roblox gaming","🚀 Stable performance 99.9% uptime"]
 },
 th:{
 mainTitle:"VPS GAMING",
@@ -36,7 +36,7 @@ configs:[
 {name:"คอนฟิก 1",subtitle:"เล่นเกมอัตโนมัติจำนวนมาก",cpu:"Dual Intel Xeon E5-2680v4",cores:"28 คอร์",gpu:"GTX 1070/1080",vram:"8GB VRAM",ram:"128GB DDR4",storage:"SSD NVMe",weekly:"$17",monthly:"$60"},
 {name:"คอนฟิก 2",subtitle:"เล่นเกมอัตโนมัติจำนวนมหาศาล",cpu:"Dual Intel Xeon E5-2686v4",cores:"36 คอร์",gpu:"GTX 1070/1080",vram:"8GB VRAM",ram:"128GB DDR4",storage:"SSD NVMe",weekly:"$18",monthly:"$64"}
 ],
-features:["✅ รองรับ Windows 1511, 21H2, 22H2","💾 อัปเกรด RAM ถึง 256GB (25K/32GB)","🌐 เครือข่ายความเร็วสูง: VNPT, Viettel, FPT","🔧 ซัพพอร์ต 24/7 และรีสตาร์ทอัตโนมัติ","🎮 เหมาะสำหรับเกม: Blox Fruits, Roblox","🚀 ประสิทธิภาพเสถียร 99.9% uptime"]
+features:["✅ รองรับ Windows 1511, 21H2, 22H2","💾 อัปเกรด RAM ถึง 256GB (50K/32GB - ขั้นต่ำ 64GB)","🌐 เครือข่ายความเร็วสูง: VNPT, Viettel, FPT","🔧 ซัพพอร์ต 24/7 และรีสตาร์ทอัตโนมัติ","🎮 เหมาะสำหรับเกม Roblox โดยเฉพาะ","🚀 ประสิทธิภาพเสถียร 99.9% uptime"]
 }
 };
 let l='vi';
